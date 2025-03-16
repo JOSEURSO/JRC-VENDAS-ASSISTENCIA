@@ -488,7 +488,7 @@ img {
 }
 @media (max-width: 740px) {
   #navbar .wrapper .menu {
-    display: none;
+    display: block;
   }
 }
 #navbar .wrapper .menu li a {
